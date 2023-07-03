@@ -1,5 +1,5 @@
 - Bsc. Computer Science Student at UFG.  
-- 2+ Years Frontend developer.  
+- Fullstack developer since 2021.  
 - Learning Data Science and Machine Learning.   
 - mrgpedrosilva@gmail.com  
   
