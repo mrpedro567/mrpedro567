@@ -1,6 +1,6 @@
-- Bsc. Computer Science Student at UFG.  
-- Fullstack developer since 2021.  
-- Learning Data Science and Machine Learning.   
+- Bsc. Computer Science
+- Fullstack developer since 2021.
+- Web3 Researcher   
 - mrgpedrosilva@gmail.com  
   
 <!---
